@@ -8,7 +8,6 @@
             <button class="btn btn-default" type="button">搜索</button>
           </span>
         </div><!-- /input-group -->
-        <!--  df - ->
       </div>
       <div class="col-xs-4 col-sm-2">
         <button type="button" class="btn btn-default col-lg-6" v-on:click="router_push">切换面板</button>
